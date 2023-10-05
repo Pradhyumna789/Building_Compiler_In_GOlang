@@ -1,1 +1,2 @@
-# Building_Compiler_In_Golang
+# This project is still in progress
+## Project is inspired by this book https://interpreterbook.com/
